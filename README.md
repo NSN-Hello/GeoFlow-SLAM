@@ -1,13 +1,12 @@
 
-# GeoFlow-SLAM: A Robust Tightly-Coupled RGBD-Inertial and Legged Odometry Fusion SLAM for Dynamic Legged Robotics
-
-
-[![Arxiv](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/2503.14247)
+# Note ！！！！
 
 The latest version of our code is available at the following GitHub repository. 
 Your star for the newest repo would be greatly appreciated!
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/HorizonRobotics/geoflow-slam)
+ [Paper] (https://arxiv.org/abs/2503.14247)
+
+ [GitHub] (https://github.com/HorizonRobotics/geoflow-slam)
 
 ![Sample Image 3](pics/framework.png)
 <p align="center"><em>Figure 1: System framework of GeoFlow-SLAM.</em></p>
